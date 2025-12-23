@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": "B6E2F1A7-7A4B-4E8E-A12F-111111111111",
+    "studentName": "Helmet Clay",
+    "studentId": "STU-101",
+    "status": "Boarded",
+    "timestamp": "2025-12-23T09:30:00Z",
+    "isEmergency": false
+  },
+  {
+    "id": "C3F5A1B9-9C8D-4D1A-A12F-222222222222",
+    "studentName": "Stewe Harrington",
+    "studentId": "STU-102",
+    "status": "Unauthorized",
+    "timestamp": "2025-12-23T09:32:00Z",
+    "isEmergency": true
+  },
+  {
+    "id": "D9A3B7C1-4E9A-4F3B-A12F-333333333333",
+    "studentName": "Hanna Baker",
+    "studentId": "STU-103",
+    "status": "Exited",
+    "timestamp": "2025-12-23T09:35:00Z",
+    "isEmergency": false
+  },
+  {
+    "id": "E1A2B3C4-1111-4AAA-BBBB-444444444444",
+    "studentName": "Stefan Salvatore",
+    "studentId": "STU-104",
+    "status": "Boarded",
+    "timestamp": "2025-12-23T09:38:00Z",
+    "isEmergency": false
+  },
+  {
+    "id": "F5D6C7B8-2222-4CCC-DDDD-555555555555",
+    "studentName": "Klaus Michalson",
+    "studentId": "STU-105",
+    "status": "Exited",
+    "timestamp": "2025-12-23T09:40:00Z",
+    "isEmergency": false
+  },
+  {
+    "id": "A9B8C7D6-3333-4EEE-FFFF-666666666666",
+    "studentName": "Jack Ryan",
+    "studentId": "STU-106",
+    "status": "Unauthorized",
+    "timestamp": "2025-12-23T09:42:00Z",
+    "isEmergency": true
+  }
+
+]
